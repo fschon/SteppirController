@@ -1,4 +1,4 @@
-# SteppirController - Remote low cost Steppir antenna controller. 
+# Steppir Antenna Controller - Remote low cost Steppir antenna controller. 
 
 I recently acquired a 12 year old Steppir 3 element antenna missing the controller. Due to the age of the antenna, I did not want to invest in a new controller and so looked into the idea of using 3d printer electronics to build my own. 
 
